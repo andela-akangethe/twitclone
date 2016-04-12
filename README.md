@@ -1,3 +1,3 @@
 # TWITCLONE
 
-This is a twitter clone made in <3 using rails.
+This is a twitter clone made with <3 using rails.
